@@ -4,7 +4,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-(https://github-readme-stats.vercel.app/api?username=mangming2&show_icons=true&theme=default)
+![mangming2's GitHub stats](https://github-readme-stats.vercel.app/api?username=mangming2&show_icons=true&theme=default)
 
 
-(http://mazassumnida.wtf/api/v2/generate_badge?boj=jiho402)](https://solved.ac/jiho402)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiho402)](https://solved.ac/jiho402)
