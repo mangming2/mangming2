@@ -18,8 +18,9 @@
   <img src="https://img.shields.io/badge/Figma-a259ff?style=flat-square&logo=Figma&logoColor=white"/>
 </div>
 
+<div align="center">
 ![mangming2's GitHub stats](https://github-readme-stats.vercel.app/api?username=mangming2&show_icons=true&theme=default)
 
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiho402)](https://solved.ac/jiho402)
+  </div>
 
