@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LEE%20JiHo&fontSize=90)
 <a href="https://www.instagram.com/ps_noback/">
     <img 
         src="http://img.shields.io/badge/-222222?style=flat&logo=Instagram&link=https://www.instagram.com/ps_noback/"
