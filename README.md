@@ -1,5 +1,8 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LEE%20JiHo&fontSize=90)
-
+  
+</div>
 
 <div align="center">
   
@@ -25,7 +28,7 @@
 
   </div>
   
-  <div aligne="left">
+  <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangming2)](https://github.com/mangming2/github-readme-stats)
   
@@ -34,3 +37,11 @@
   
   </div>
 
+<div align="right">
+  
+  <a href="https://instagram.com/ps_noback?igshid=YmMyMTA2M2Y=" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+  </a>
+  
+   
+  </div>
