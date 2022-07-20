@@ -2,9 +2,9 @@
 
 
 <div align="center">
-  :mortar_board:
-  <h3>Tech Stack</h3>
-  :mortar_board:
+  
+  <h3>:mortar_board: Tech Stack :mortar_board:</h3>
+  
 </div>
 
 <br />
