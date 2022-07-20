@@ -27,6 +27,8 @@
   </div>
   
   <div aligne="left">
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangming2)](https://github.com/mangming2/github-readme-stats)
+  
   </div>
 
