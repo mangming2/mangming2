@@ -54,3 +54,6 @@
   
    
   </div>
+  
+  ## ▎🧑‍💻 Portfolio Notion
+- ### https://highfalutin-chili-d32.notion.site/68f1c02d35c843b48375ca3846a2ae36
