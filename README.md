@@ -43,10 +43,9 @@
   
   <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangming2)](https://github.com/mangming2/github-readme-stats)
+
   
   
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiho402)](https://solved.ac/jiho402)
   
   </div>
 
