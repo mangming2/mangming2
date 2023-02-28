@@ -17,20 +17,12 @@
 
 <div align="center">
  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-7ddfff?style=flat-square&logo=React&logoColor=black"/>
+|Language|Web-Front-End|StateManagement|DataFetching|Tools|
+|:---:|:---:|:---:|:---:|:---:|
+|<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/>| <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>|<img src="https://img.shields.io/badge/Recoil-blue?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/> | <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>|<img src="https://img.shields.io/badge/Slack-4a154b?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-a259ff?style=flat-square&logo=Figma&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
- 
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/>
-
+--- 
   
-  <img src="https://img.shields.io/badge/Slack-4a154b?style=flat-square&logo=Slack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-a259ff?style=flat-square&logo=Figma&logoColor=white"/>
 
 </div>
 
