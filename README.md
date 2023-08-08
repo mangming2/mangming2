@@ -44,9 +44,7 @@
 <div align="right">
   
   <h3>Contact by</h3>
-  <a href="https://instagram.com/ps_noback?igshid=YmMyMTA2M2Y=" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-  </a>
+  <h2>leejiho35@gmail.com</h2>
   
    
   </div>
