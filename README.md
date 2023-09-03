@@ -2,7 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LEE%20JiHo&fontSize=90)
   
-  ![image](https://user-images.githubusercontent.com/59263564/179875728-db55bb89-e665-4f05-8799-4f10743896d5.png)
 
 
 </div>
