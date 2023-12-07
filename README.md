@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  <h3>:mortar_board: Tech Stack :mortar_board:</h3>
+  <h3>Tech Stack</h3>
   
 </div>
 
