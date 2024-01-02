@@ -1,18 +1,10 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=LEE%20JiHo&fontSize=90)
-  
+### LEE JIHO
 
-
-</div>
+> Frontend Dev, also interested in Crypto
 
 <div align="center">
-  
   <h3> 🛠️ Tech Stack 🛠️ </h3>
-  
 </div>
-
-<br />
 
 <div align="center">
  
@@ -24,19 +16,6 @@
   
 
 </div>
-
-<div align="center">
-  <br/>
-  
-![mangming2's GitHub stats](https://github-readme-stats.vercel.app/api?username=mangming2&show_icons=true&theme=default)
-
-  </div>
-  
-  <div align="center">
-  
-
-  
-  
   
   </div>
 
@@ -44,9 +23,5 @@
   
   <h3>Contact by</h3>
   <h2>leejiho35@gmail.com</h2>
-  
-   
   </div>
   
-  ## ▎🧑‍💻 Portfolio Notion
-- ### https://highfalutin-chili-d32.notion.site/68f1c02d35c843b48375ca3846a2ae36
