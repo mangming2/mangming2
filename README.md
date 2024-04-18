@@ -30,7 +30,7 @@
 
 <h4>State Management</h4>
 <p>
-<img src="https://img.shields.io/badge/Recoil-blue?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=Recoil&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 </p>
 </div>
