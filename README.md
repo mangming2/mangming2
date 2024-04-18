@@ -9,7 +9,7 @@
 <div align="center">
 
 <div align="center">
-<p>Language</p>
+<h4>Language</h4>
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/>  
