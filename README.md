@@ -28,6 +28,14 @@
 
 <div align="center">
 
+<h4>Styling</h4>
+<p>
+<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind Css-06B6D4?style=flat-square&logo=Tailwind Css&logoColor=white"/>
+</p>
+</div>
+<div align="center">
+
 <h4>State Management</h4>
 <p>
 <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white">
