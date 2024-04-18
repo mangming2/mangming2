@@ -34,7 +34,6 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 </p>
 </div>
-
 <div align="center">
 
 <h4>Tools</h4>
