@@ -17,19 +17,33 @@
 
 </div>
 
-Web-Front-End
+<div align="center">
+
+<h4>Web-Front-End</h4>
+<p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
+</p>
+</div>
 
-State Management
+<div align="center">
+
+<h4>State Management</h4>
+<p>
 <img src="https://img.shields.io/badge/Recoil-blue?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+</p>
+</div>
 
-Tools
+<div align="center">
+
+<h4>Tools</h4>
+<p>
 <img src="https://img.shields.io/badge/Slack-4a154b?style=flat-square&logo=Slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-a259ff?style=flat-square&logo=Figma&logoColor=white"/>
-
+</p>
+</div>
 ---
 
 </div>
