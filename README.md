@@ -36,6 +36,14 @@
 </div>
 <div align="center">
 
+<h4>Asynchronous communication</h4>
+<p>
+<img src="https://img.shields.io/badge/React-Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+</p>
+</div>
+<div align="center">
+
 <h4>Tools</h4>
 <p>
 <img src="https://img.shields.io/badge/Slack-4a154b?style=flat-square&logo=Slack&logoColor=white"/>
