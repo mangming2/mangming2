@@ -65,7 +65,8 @@
 
 ### ✨ Experience
 
-- `AHHA LABS Frontend Dev` - 2024.12 ~
+- `GABIA Frontend Dev` - 2025.07 ~
+- `AHHA LABS Frontend Dev` - 2024.12 ~ 2025.07
 - `Tmax BI Frontend Dev` - 2023.12 ~ 2023.11
 - `Team Heimdallr Frontend Dev` - 2023.07 ~ 2023.08
 - `Studio 4wall Frontend Dev` - 2023.01 ~ 2023.02
